@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Pack Ron",
+      "description": "",
+      "price": 0,
+      "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/packs/01.png",
+      "categoryId": [1],
+      "products": [
+        {
+          "productId": 5,
+          "quantity": 1
+        },
+        {
+          "productId": 30,
+          "quantity": 1
+        },
+        {
+          "productId": 48,
+          "quantity": 1
+        }
+      ],
+      "enabled": true,
+      "visibility": true
+    },
+    {
+        "id": 2,
+        "name": "Pack Flor",
+        "description": "",
+        "price": 0,
+        "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/packs/02.png",
+        "categoryId": [1],
+        "products": [
+            {
+            "productId": 1,
+            "quantity": 1
+            },
+            {
+            "productId": 30,
+            "quantity": 1
+            },
+            {
+            "productId": 48,
+            "quantity": 1
+            }
+        ],
+        "enabled": true,
+        "visibility": true
+    },
+    {
+        "id": 3,
+        "name": "Pack Red",
+        "description": "",
+        "price": 0,
+        "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/packs/03.png",
+        "categoryId": [1],
+        "products": [
+            {
+            "productId": 25,
+            "quantity": 1
+            },
+            {
+            "productId": 30,
+            "quantity": 1
+            },
+            {
+            "productId": 48,
+            "quantity": 1
+            }
+        ],
+        "enabled": true,
+        "visibility": true
+    },
+    {
+        "id": 4,
+        "name": "Pack Loko",
+        "description": "",
+        "price": 0,
+        "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/packs/04.png",
+        "categoryId": [1],
+        "products": [
+            {
+            "productId": 2,
+            "quantity": 1
+            },
+            {
+            "productId": 24,
+            "quantity": 1
+            },
+            {
+            "productId": 48,
+            "quantity": 1
+            }
+        ],
+        "enabled": true,
+        "visibility": true
+    }
+]

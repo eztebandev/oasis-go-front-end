@@ -1,1 +1,15 @@
+.pack-slider .slick-slide {
+    padding: 0 8px;
+}
 
+.pack-slider .slick-dots {
+bottom: -30px;
+}
+
+.pack-slider .slick-dots li button:before {
+color: #4F46E5;
+}
+
+.pack-slider .slick-dots li.slick-active button:before {
+color: #4F46E5;
+}

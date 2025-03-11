@@ -1,0 +1,827 @@
+[
+  {
+    "id": 1,
+    "name": "Flor de Caña",
+    "size": "750 ml",
+    "price": 42.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/01.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vino Queirolo",
+    "size": "750 ml",
+    "price": 20.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/02.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ron Cartavio Black",
+    "size": "1 L",
+    "price": 31.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/03.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ron Cartavio Black Chata",
+    "size": "250 ml",
+    "price": 12.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/04.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ron Cartavio Selecto",
+    "size": "750 ml",
+    "price": 26.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/05.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Corona",
+    "size": "6 (Six)",
+    "price": 33.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/06.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Corona",
+    "size": "1 (Unidad)",
+    "price": 6.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/07.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Pilsen Latón",
+    "size": "6 (Six)",
+    "price": 33.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/08.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Pilsen Lata",
+    "size": "6 (Six)",
+    "price": 27.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/09.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Cuzqueña lata",
+    "size": "6 (Six)",
+    "price": 33.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/10.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Pilsen botella",
+    "size": "1 (Unidad) - Grande",
+    "price": 7.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/11.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Pilsen botella",
+    "size": "1 (Caja) - Grande",
+    "price": 76.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/12.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Vino Tabernero",
+    "size": "750 ml",
+    "price": 20.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/13.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Old Time",
+    "size": "750 ml",
+    "price": 29.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/14.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Old Time",
+    "size": "1 L",
+    "price": 35.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/15.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Cuzqueña botella",
+    "size": "Chica 330ml",
+    "price": 5.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/16.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Pilsen botella",
+    "size": "Chica 350ml",
+    "price": 5.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/17.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pilsen botella",
+    "size": "Chica (Six) 350ml",
+    "price": 27.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/18.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Cuzqueña botella",
+    "size": "Grande 620ml",
+    "price": 8.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/19.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cigarro Lucky",
+    "size": "Caja (x20)",
+    "price": 24.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/20.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Cigarro Lucky",
+    "size": "1 (Unidad)",
+    "price": 1.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/21.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Heineken Lata",
+    "size": "Chica (Six)",
+    "price": 35.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/22.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Heineken Lata",
+    "size": "1 (Unidad)",
+    "price": 6.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/23.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Four Loko",
+    "size": "1 (Unidad)",
+    "price": 12.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/24.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Red Label",
+    "size": "750 ml",
+    "price": 60.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/25.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Pickeos Snack",
+    "size": "",
+    "price": 3.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/26.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Papitas Lays",
+    "size": "",
+    "price": 3.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/27.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Monster lata",
+    "size": "1 (Unidad)",
+    "price": 8.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/28.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Coca Cola",
+    "size": "1/2 L",
+    "price": 3.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/29.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Coca Cola",
+    "size": "3 L",
+    "price": 13.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/30.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Coca Cola",
+    "size": "2 L",
+    "price": 11.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/31.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Agua Cielo",
+    "size": "1/2 L",
+    "price": 1.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/32.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Agua Cielo",
+    "size": "2 L",
+    "price": 4.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/33.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Cigarro Golden",
+    "size": "Caja (x20)",
+    "price": 3.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/34.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Cigarro Golden",
+    "size": "1 (Unidad)",
+    "price": 0.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/35.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Guarana",
+    "size": "2 L",
+    "price": 6.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/36.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Guarana",
+    "size": "1/2 L",
+    "price": 2.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/37.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Inka Cola",
+    "size": "3 L",
+    "price": 13.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/38.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Inka Cola",
+    "size": "1/2 L",
+    "price": 3.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/39.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Powerade",
+    "size": "1/2 L",
+    "price": 3.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/40.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Powerade",
+    "size": "1 L",
+    "price": 5.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/41.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Sporade",
+    "size": "1/2 L",
+    "price": 2.5,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/42.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Sporade",
+    "size": "1 L",
+    "price": 5.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/43.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Pisco Acholado Tunga",
+    "size": "750 ml",
+    "price": 38.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/44.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Vodka Sabor Manzana",
+    "size": "750 ml",
+    "price": 25.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/45.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Cifrut",
+    "size": "1/2 L",
+    "price": 2.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/46.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Encendedor",
+    "size": "",
+    "price": 1.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/47.png",
+    "categoryId": 1,
+    "company": "Bodega Flor",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Hielo",
+    "size": "1/2 K",
+    "price": 4.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/48.png",
+    "categoryId": 1,
+    "company": "Bodega Fermin Castillo",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Hielo",
+    "size": "2 K",
+    "price": 5.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/49.png",
+    "categoryId": 1,
+    "company": "Bodega Fermin Castillo",
+    "enabled": false,
+    "visibility": false,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Mostrito",
+    "size": "1/8 pollo",
+    "price": 14.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/50.png",
+    "categoryId": 2,
+    "company": "Pollería Campeón",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Mostro",
+    "size": "1/4 pollo",
+    "price": 20.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/51.png",
+    "categoryId": 2,
+    "company": "Pollería Campeón",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Pollo",
+    "size": "Entero",
+    "price": 70.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/52.png",
+    "categoryId": 2,
+    "company": "Pollería Campeón",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Pollo",
+    "size": "1/2",
+    "price": 39.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/53.png",
+    "categoryId": 2,
+    "company": "Pollería Campeón",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Pollo",
+    "size": "1/4",
+    "price": 20.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/54.png",
+    "categoryId": 2,
+    "company": "Pollería Campeón",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Pollo",
+    "size": "1/8",
+    "price": 12.0,
+    "image": "https://oasis-go-bucket.s3.us-east-1.amazonaws.com/products/55.png",
+    "categoryId": 2,
+    "company": "Pollería Campeón",
+    "enabled": false,
+    "visibility": true,
+    "schedule": {
+      "start": "18:00",
+      "end": "24:00"
+    }
+  }
+]
